@@ -59,9 +59,9 @@ ft_putnbr(-5);
 ft_putnbr(-123456789);
 
 //ex08
-write(1,"ex08\n",5);
-ft_print_comb(3);
-write(1,"\n",1);
+//write(1,"ex08\n",5);
+//ft_print_comb(3);
+//write(1,"\n",1);
 
 return 0;
 }
